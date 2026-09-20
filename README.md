@@ -101,6 +101,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## Miscellaneous
 
+1. **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** - Free browser-only freelance invoice, quote, retainer outline, and client tools (MIT).
+
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
